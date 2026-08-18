@@ -15,7 +15,6 @@ I’m Pradeep Kadakol, an engineering student with a passion for web development
 <div>
   <img src="./assets/images/leetcode_50days.gif" alt="LeetCode 50 Days Badge"/>
 </div>
----
 
 ![](https://visitcount.itsvg.in/api?id=pradeepkadakol&icon=0&color=0)
 
