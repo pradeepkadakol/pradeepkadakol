@@ -12,7 +12,7 @@ I’m Pradeep Kadakol, an engineering student with a passion for web development
 ![](https://nirzak-streak-stats.vercel.app/?user=pradeepkadakol&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepkadakol&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 # Leetcode Stats:
-<a href="https://assets.leetcode.com/static_assets/others/50_1080_1080.png" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/50_1080_1080.png" alt="jyot" height="200" width="200" /></a>
+<img src="./leetcode_50days.gif" alt="LeetCode 50 Days Badge"/>
 <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
 ---
 [![](https://visitcount.itsvg.in/api?id=pradeepkadakol&icon=0&color=0)](https://visitcount.itsvg.in)
