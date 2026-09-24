@@ -191,47 +191,29 @@
   <i>Consistency is the key to mastering problem solving. 🚀</i>
 </p>
 
-<br>
+<p align="center">
+  <img src="./assets/images/50.gif" alt="LeetCode 50 Days Badge" width="180" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/images/100.gif" alt="LeetCode 100 Days Badge" width="180" />
+</p>
 
-<table align="center">
-  <tr>
-
-    <td align="center">
-      <img
-        src="./assets/images/50.gif"
-        alt="LeetCode 50 Days Badge"
-        width="220"
-      />
-      <br>
-      <b>🔥 50 Days</b>
-    </td>
-
-    <td width="30"></td>
-
-    <td align="center">
-      <img
-        src="./assets/images/100.gif"
-        alt="LeetCode 100 Days Badge"
-        width="220"
-      />
-      <br>
-      <b>🚀 100 Days</b>
-    </td>
-
-  </tr>
-</table>
+<p align="center">
+  🔥 <b>50 Days</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  🚀 <b>100 Days</b>
+</p>
 
 <br>
 
 <p align="center">
-  <a href="https://leetcode.com/">
+  <a href="https://leetcode.com/pradeepkadakol/" target="_blank">
     <img
-      src="https://leetcard.jacoblin.cool/?theme=dark&font=Karma&ext=heatmap"
-      alt="LeetCode Stats"
+      src="https://leetcard.jacoblin.cool/pradeepkadakol?theme=dark&font=Karma&ext=heatmap"
+      alt="Pradeep's LeetCode Stats"
+      width="500"
     />
   </a>
 </p>
-
 ---
 
 <!-- ===================== CONTRIBUTION ===================== -->
