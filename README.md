@@ -146,6 +146,26 @@
 </p>
 
 ---
+<!-- ===================== LEETCODE ===================== -->
+
+<h2 align="center">🧑‍💻 LeetCode Journey</h2>
+
+<p align="center">
+  <i>Consistency is the key to mastering problem solving. 🚀</i>
+</p>
+
+<p align="center">
+  <img src="./assets/images/50.gif" alt="LeetCode 50 Days Badge" width="180" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/images/100.gif" alt="LeetCode 100 Days Badge" width="180" />
+</p>
+
+<p align="center">
+  🔥 <b>50 Days</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  🚀 <b>100 Days</b>
+</p>
+
 
 <!-- ===================== GITHUB STATS ===================== -->
 
@@ -167,26 +187,6 @@
     height="180"
   />
 
-
-<!-- ===================== LEETCODE ===================== -->
-
-<h2 align="center">🧑‍💻 LeetCode Journey</h2>
-
-<p align="center">
-  <i>Consistency is the key to mastering problem solving. 🚀</i>
-</p>
-
-<p align="center">
-  <img src="./assets/images/50.gif" alt="LeetCode 50 Days Badge" width="180" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./assets/images/100.gif" alt="LeetCode 100 Days Badge" width="180" />
-</p>
-
-<p align="center">
-  🔥 <b>50 Days</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  🚀 <b>100 Days</b>
-</p>
 
 
 <!-- ===================== CURRENT FOCUS ===================== -->
