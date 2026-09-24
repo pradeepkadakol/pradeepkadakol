@@ -167,21 +167,6 @@
     height="180"
   />
 
-</p>
-
-<h3 align="center">💻 Most Used Languages</h3>
-
-<p align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepkadakol&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    alt="Pradeep's Top Languages"
-    height="180"
-  />
-
-</p>
-
----
 
 <!-- ===================== LEETCODE ===================== -->
 
@@ -203,33 +188,6 @@
   🚀 <b>100 Days</b>
 </p>
 
-<br>
-
-<p align="center">
-  <a href="https://leetcode.com/pradeepkadakol/" target="_blank">
-    <img
-      src="https://leetcard.jacoblin.cool/pradeepkadakol?theme=dark&font=Karma&ext=heatmap"
-      alt="Pradeep's LeetCode Stats"
-      width="500"
-    />
-  </a>
-</p>
----
-
-<!-- ===================== CONTRIBUTION ===================== -->
-
-<h2 align="center">📈 Contribution Journey</h2>
-
-<p align="center">
-
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=pradeepkadakol&theme=tokyo-night&hide_border=true"
-    alt="GitHub Contribution Activity Graph"
-  />
-
-</p>
-
----
 
 <!-- ===================== CURRENT FOCUS ===================== -->
 
@@ -257,16 +215,6 @@
 
 ---
 
-<!-- ===================== PROFILE VIEWS ===================== -->
-
-<p align="center">
-
-  <img
-    src="https://visitcount.itsvg.in/api?id=pradeepkadakol&icon=0&color=0"
-    alt="Profile Views"
-  />
-
-</p>
 
 <p align="center">
   <b>⭐ Thanks for visiting my profile! ⭐</b>
