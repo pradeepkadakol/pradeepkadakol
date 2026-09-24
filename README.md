@@ -13,7 +13,8 @@ I’m Pradeep Kadakol, an engineering student with a passion for web development
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepkadakol&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 # Leetcode Info:
 <div>
-  <img src="./assets/images/leetcode_50days.gif" alt="LeetCode 50 Days Badge"/>
+  <img src="./assets/images/50days.mp4" alt="LeetCode 50 Days Badge"/>
+  <img src="./assets/images/100days.mp4" alt="LeetCode 50 Days Badge"/>
 </div>
 
 ![](https://visitcount.itsvg.in/api?id=pradeepkadakol&icon=0&color=0)
